@@ -8,4 +8,4 @@
 - 📫 How to reach me: pranav@grodai.in
 - ⚡ Real fact: I am single
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavpatil70)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
