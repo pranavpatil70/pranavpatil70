@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Grod AI. (https://grodai.in/)
-- 🌱 I’m currently learning MlOps
+- 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate on working on LLMs
 - 🤔 I’m looking for help with LLMs
 - 💬 Ask me about using AI for content generation
