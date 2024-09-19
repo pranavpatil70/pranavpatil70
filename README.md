@@ -13,28 +13,26 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pranavpatil70&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
-name: GitHub Readme YouTube Cards
-on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
+# My YouTube Videos
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
-    permissions:
-      contents: write
-    # Run the GitHub Readme YouTube Cards action
-    steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: @thecuriouspranav
+Welcome to my collection of YouTube videos! Click on any thumbnail to watch the video.
+
+## Video Showcase
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<a href="https://www.youtube.com/watch?v=OXITLZhngG4"><img width="250" src="https://img.youtube.com/vi/OXITLZhngG4/0.jpg"></a><br>|<a href="https://www.youtube.com/watch?v=CbFUpMBp9RM"><img width="250" src="https://img.youtube.com/vi/CbFUpMBp9RM/0.jpg"></a><br>|<a href="https://www.youtube.com/watch?v=lLx1jQeQLw4"><img width="250" src="https://img.youtube.com/vi/lLx1jQeQLw4/0.jpg"></a><br>|
+|<a href="https://www.youtube.com/watch?v=kh7pexZ0JTQ"><img width="250" src="https://img.youtube.com/vi/kh7pexZ0JTQ/0.jpg"></a><br>|<a href="https://www.youtube.com/watch?v=tBsvnM85zH4"><img width="250" src="https://img.youtube.com/vi/tBsvnM85zH4/0.jpg"></a><br>|<a href="https://www.youtube.com/watch?v=XkbqBUvLCMA"><img width="250" src="https://img.youtube.com/vi/XkbqBUvLCMA/0.jpg"></a><br>|
+
+## About
+
+These videos are all dedicated towards towards providing deeper understanding of tech and AI from industry experts. To watch more, visit [here!](https://www.youtube.com/channel/@thecuriouspranav).
+
+[![](https://visitcount.itsvg.in/api?id=pranavpatil70&icon=0&color=0)](https://visitcount.itsvg.in)
