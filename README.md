@@ -11,6 +11,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://hit.yhype.me/github/profile?account_id=124248734)
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpranavpatil70%2Fpranavpatil70&countColor=%23263759&style=plastic)
